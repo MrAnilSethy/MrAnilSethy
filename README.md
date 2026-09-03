@@ -61,20 +61,24 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mranilsethy&show_icons=true&theme=tokyonight&count_private=true" alt="mranilsethy stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranilsethy&layout=compact&theme=tokyonight" alt="top languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mranilsethy&theme=tokyonight" alt="streak stats" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mranilsethy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=440" alt="Anil's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranilsethy&layout=compact&theme=tokyonight&hide_border=true&card_width=440" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mranilsethy&theme=algolia&column=7&margin-w=8" alt="trophies"/>
-  </a>
-</p>
+<img src="https://streak-stats.demolab.com/?user=mranilsethy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="700" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mranilsethy&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="700" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mranilsethy&theme=tokyonight&column=7&margin-w=8&no-frame=true" alt="trophies" />
+</a>
+
+</div>
 
 ---
 
