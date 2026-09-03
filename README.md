@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anil Sethy 👋</h1>
-<h3 align="center">AI/ML Engineer in the making | B.Tech CSE (2023–2027) | Building production-ready AI systems</h3>
+<h3 align="center">AI/ML Engineer in the making | B.Tech CST (2023–2027) | Building production-ready AI systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Apps+%F0%9F%A4%96;PyTorch+%7C+LangChain+%7C+Streamlit+%7C+FastAPI;Turning+ML+models+into+real+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
