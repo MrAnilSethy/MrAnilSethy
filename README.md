@@ -63,8 +63,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mranilsethy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anil's GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranilsethy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mranilsethy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anil's GitHub stats" width="60%" />
+
+<img src="https://streak-stats.demolab.com/?user=mranilsethy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mranilsethy&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="60%" />
 
 </div>
 
