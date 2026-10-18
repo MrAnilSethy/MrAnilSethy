@@ -1,86 +1,77 @@
-<h1 align="center">Hi there, I'm Anil Sethy 👋</h1>
-<h3 align="center">AI/ML Engineer in the making | B.Tech CST (2023–2027) | Building production-ready AI systems</h3>
+<h1 align="center">Anil Sethy</h1>
+<p align="center"><b>AI/ML Engineer in the making · B.Tech CST '27 · I ship models, not just notebooks</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Apps+%F0%9F%A4%96;PyTorch+%7C+LangChain+%7C+Streamlit+%7C+FastAPI;Turning+ML+models+into+real+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=RAG+apps+that+answer+from+real+data;Face+%2B+voice+recognition+in+production;Classical+ML+with+FastAPI+backends;From+notebook+to+live+URL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mranilsethy&label=Profile%20views&color=0e75b6&style=flat" alt="mranilsethy" />
-  <a href="https://linkedin.com/in/mranilsethy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="mailto:anilsethy470@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mranilsethy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:anilsethy470@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://kaggle.com/anilsethy05"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://leetcode.com/anilsethy470"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://x.com/mranilsethy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://instagram.com/im.anil.18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 Snapshot
 
-- 🎓 B.Tech in Computer Science & Technology (2023–2027), focused on **AI/ML Engineering**
-- 🔭 Currently building **[AI-Powered Attendance System](https://github.com/MrAnilSethy/Ai-Powered-Attendance-System)** — face recognition + QR-based enrollment with a Streamlit UI and Supabase backend
-- 🧠 Also shipped a **RAG application** (LangChain + MistralAI + Chroma) with live retrieval-parameter tuning and session-based chat
-- 🌱 Currently deepening my skills in **PyTorch, CNNs, and NLP architectures**
-- 👯 Looking to collaborate on **[AI-Powered Attendance System](https://github.com/MrAnilSethy/Ai-Powered-Attendance-System)** — voice recognition & analytics phase coming up
-- 🤝 Looking for help/feedback on **[NYC House Type Prediction](https://github.com/MrAnilSethy/NYC-House-Type-Prediction)**
-- 💬 Ask me about **AI/ML Engineering, LLM apps, or building end-to-end ML products**
-- ⚡ Fun fact: **I can build almost anything with a mix of solid fundamentals and "vibe coding" 😄**
+```python
+class Anil:
+    degree   = "B.Tech, Computer Science & Technology (2023–2027)"
+    focus    = ["Machine Learning", "LLM apps / RAG", "Computer Vision", "FastAPI deployment"]
+    building = "AI-Powered Attendance System (face + voice + QR)"
+    learning = ["PyTorch", "CNNs", "NLP architectures"]
+    goal     = "Entry-level AI/ML Engineer role"
+    motto    = "Solid fundamentals + a little vibe coding 😄"
+```
 
----
+## 🚀 Shipped & Live
 
-### 🛠️ Featured Projects
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| 🤖 **Nimble Tech AI Assistant** | RAG chatbot answering questions on courses, admissions and careers from a persistent knowledge base, with separate chat threads | LangChain · Chroma · Mistral embeddings · Groq · Streamlit | [Code](https://github.com/MrAnilSethy/Nimble-Tech-AI-Assistant) · [Live](https://nimble-tech-ai-assistant.streamlit.app/) |
+| 🎯 **AI-Powered Attendance System** | Multi-face recognition, voice-based attendance, QR/URL enrollment, attendance history and percentage | Python · Dlib · Streamlit · Supabase · Resemblyzer | [Code](https://github.com/MrAnilSethy/Ai-Powered-Attendance-System) · [Live](https://ai-powered-attendance-system.streamlit.app/) |
+| 🏠 **NYC Room Type Prediction** | Classifies NYC Airbnb listings as Entire / Private / Shared room, served through a FastAPI backend with a custom frontend | scikit-learn · FastAPI · Pydantic v2 · Render | [Code](https://github.com/MrAnilSethy/NYC-House-Type-Prediction) |
+| 🏋️ **Real-Time AI Gym Coach** | Pose detection for form feedback and rep counting | OpenCV · MediaPipe | _add repo link_ |
+| 📄 **AI Resume ATS** | Scores resumes against a job description | NLP · scikit-learn | _add repo link_ |
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🎯 [AI-Powered Attendance System](https://github.com/MrAnilSethy/Ai-Powered-Attendance-System) | Face-recognition based attendance tracking with QR-code enrollment and a live analytics dashboard | Python, Streamlit, OpenCV, Supabase |
-| 🏋️ Real-Time AI Gym Coach | Real-time pose detection to track exercise form and rep counts | Python, OpenCV, MediaPipe |
-| 📄 AI Resume ATS | Resume screening tool that scores resumes against job descriptions | Python, NLP, scikit-learn |
-| 💬 RAG Knowledge Assistant | PDF-ingestion chatbot with tunable retrieval and session memory | LangChain, MistralAI, ChromaDB, Streamlit |
-| 🏠 [NYC House Type Prediction](https://github.com/MrAnilSethy/NYC-House-Type-Prediction) | Predicting housing types from structured data | Python, pandas, scikit-learn |
+> 💡 Each repo's README has setup steps and screenshots.
 
-> 💡 More details, metrics, and demos live in each repo's README.
+## 🧰 Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🧰 Languages & Tools
+## 🗺️ Currently
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+- 🔨 **Building:** voice recognition and analytics phase of the Attendance System
+- 📚 **Learning:** PyTorch, CNNs, NLP architectures
+- 🤝 **Open to:** collaboration on the Attendance System, feedback on the NYC model
+- 💬 **Ask me about:** LLM apps, RAG, shipping end-to-end ML products
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mranilsethy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranilsethy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mranilsethy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-**Also working with:** FastAPI · Streamlit · LangChain · Supabase · Hugging Face · OpenCV
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mranilsethy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anil's GitHub stats" width="60%" />
-
-<img src="https://streak-stats.demolab.com/?user=mranilsethy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mranilsethy&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="60%" />
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mranilsethy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/mranilsethy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://kaggle.com/anilsethy05" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-  <a href="https://leetcode.com/anilsethy470" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-  <a href="https://instagram.com/im.anil.18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/MrAnilSethy">MrAnilSethy</a> — thanks for stopping by!</i></p>
+<p align="center"><i>Thanks for stopping by ⭐</i></p>
